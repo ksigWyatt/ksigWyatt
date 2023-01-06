@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wyatt-baggett-32a25784/)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-%23F58025.svg?&style=for-the-badge&logo=stack%20overflow&logoColor=white)](https://stackoverflow.com/users/6448167/ksigwyatt)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ksigwyatt)
-[![GitKraken Ambassador](https://img.shields.io/badge/Gitkraken%20Ambassador-%23179287.svg?&style=for-the-badge&logo=gitkraken&logoColor=white)](https://www.gitkraken.com/meet-the-gitkraken-ambassadors)
+[![GitKraken Ambassador](https://img.shields.io/badge/Gitkraken%20Ambassador-%23179287.svg?&style=for-the-badge&logo=gitkraken&logoColor=white)](https://www.gitkraken.com/meet-the-gitkraken-ambassadors#:~:text=GITKRAKEN%20TESTIMONIAL-,Wyatt%20Baggett,-%F0%9F%87%BA%F0%9F%87%B8)
 
 I'm Wyatt, a Development Team Lead for [CallMiner](https://callminer.com/) in Fort Myers. I'm passionate about making tools that help people be more productive. I'm also passionate about learning new things.
 
