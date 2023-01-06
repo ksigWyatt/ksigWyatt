@@ -34,3 +34,5 @@ I'm currently working on these projects:
 ![](https://img.shields.io/badge/DevOps-Azure%20DevOps-informational?style=flat&logo=azure%20devops&logoColor=white&color=008040)
 ![](https://img.shields.io/badge/DevOps-Git-informational?style=flat&logo=git&logoColor=white&color=008040)
 ![](https://img.shields.io/badge/DevOps-TFVC-informational?style=flat&logo=azure%20devops&logoColor=white&color=008040)
+
+![](https://komarev.com/ghpvc/?username=ksigwyatt&style=flat-square)
