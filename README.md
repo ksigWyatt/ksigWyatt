@@ -42,3 +42,5 @@ I'm currently working on these projects:
 ![](https://img.shields.io/badge/DevOps-TFVC-informational?style=flat&logo=azure%20devops&logoColor=white&color=008040)
 
 ![](https://komarev.com/ghpvc/?username=ksigwyatt&style=flat-square)
+<!-- https://github-readme-stats.vercel.app/api?username=ksigwyatt&show_icons=true -->
+<!-- https://github-readme-stats.vercel.app/api/top-langs/?username=ksigwyatt&layout=compact&hide=html -->
