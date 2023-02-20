@@ -1,3 +1,7 @@
+<!-- Just something funny. I do enjoy a good James May meme -->
+<img src="https://media.giphy.com/media/8xYtJLE1zrzcesOTVQ/giphy.gif" style="height:175px;" frameBorder="0"></img>
+
+
 # Hi there 👋
 [![Github](https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/ksigWyatt)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wyatt-baggett-32a25784/)
