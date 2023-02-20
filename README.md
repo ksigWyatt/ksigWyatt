@@ -1,5 +1,7 @@
 <!-- Just something funny. I do enjoy a good James May meme -->
-<img src="https://media.giphy.com/media/8xYtJLE1zrzcesOTVQ/giphy.gif" style="height:175px;" frameBorder="0"></img>
+<p align="center">
+  <img src="https://media.giphy.com/media/8xYtJLE1zrzcesOTVQ/giphy.gif" style="height:175px;" frameBorder="0"></img>
+</p>
 
 
 # Hi there 👋
