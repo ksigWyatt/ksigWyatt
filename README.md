@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wyatt-baggett-32a25784/)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-%23F58025.svg?&style=for-the-badge&logo=stack%20overflow&logoColor=white)](https://stackoverflow.com/users/6448167/ksigwyatt)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ksigwyatt)
-[![GitKraken Ambassador](https://img.shields.io/badge/Gitkraken%20Ambassador-%23179287.svg?&style=for-the-badge&logo=gitkraken&logoColor=white)](https://www.gitkraken.com/meet-the-gitkraken-ambassadors#:~:text=GITKRAKEN%20TESTIMONIAL-,Wyatt%20Baggett,-%F0%9F%87%BA%F0%9F%87%B8)
+[![GitKraken Ambassador](https://img.shields.io/badge/Gitkraken%20Ambassador-%23179287.svg?&style=for-the-badge&logo=gitkraken&logoColor=white)](https://www.gitkraken.com/meet-the-gitkraken-ambassadors)
 
 I'm Wyatt, a Development Team Lead for [CallMiner](https://callminer.com/) in Fort Myers. I'm passionate about making tools that help people be more productive. I'm also passionate about learning new things.
 
@@ -28,6 +28,7 @@ I'm currently working on these projects:
 ![](https://img.shields.io/badge/Lang-Swift-informational?style=flat&logo=swift&logoColor=white&color=008040)
 ![](https://img.shields.io/badge/Lang-Python-informational?style=flat&logo=python&logoColor=white&color=008040)
 ![](https://img.shields.io/badge/Lang-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=008040)
+![](https://img.shields.io/badge/Lang-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=008040)
 <br>
 ![](https://img.shields.io/badge/Tool-Mongo%20DB-informational?style=flat&logo=mongodb&logoColor=white&color=008040)
 ![](https://img.shields.io/badge/Tool-Visual%20Studio-informational?style=flat&logo=visual%20studio&logoColor=white&color=008040)
@@ -36,10 +37,10 @@ I'm currently working on these projects:
 <br>
 ![](https://img.shields.io/badge/Framework-.NET-informational?style=flat&logo=.net&logoColor=white&color=008040)
 ![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&logoColor=white&color=008040)
+![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=008040)
 <br>
-![](https://img.shields.io/badge/DevOps-Azure%20DevOps-informational?style=flat&logo=azure%20devops&logoColor=white&color=008040)
-![](https://img.shields.io/badge/DevOps-Git-informational?style=flat&logo=git&logoColor=white&color=008040)
-![](https://img.shields.io/badge/DevOps-TFVC-informational?style=flat&logo=azure%20devops&logoColor=white&color=008040)
+![](https://img.shields.io/badge/DevOps-GitHub%20Actions-informational?style=flat&logo=github&logoColor=white&color=008040)
+![](https://img.shields.io/badge/DevOps-GitLab%20CI-informational?style=flat&logo=gitlab&logoColor=white&color=008040)
 
 ![](https://komarev.com/ghpvc/?username=ksigwyatt&style=flat-square)
 <!-- https://github-readme-stats.vercel.app/api?username=ksigwyatt&show_icons=true -->
