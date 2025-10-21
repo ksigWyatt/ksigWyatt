@@ -11,6 +11,8 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ksigwyatt)
 [![GitKraken Ambassador](https://img.shields.io/badge/Gitkraken%20Ambassador-%23179287.svg?&style=for-the-badge&logo=gitkraken&logoColor=white)](https://www.gitkraken.com/meet-the-gitkraken-ambassadors)
 
+[![An image of @ksigwyatt's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ksigwyatt)](https://holopin.io/@ksigwyatt)
+
 I'm Wyatt, a Development Team Lead for [CallMiner](https://callminer.com/) in Fort Myers. I'm passionate about making tools that help people be more productive. I'm also passionate about learning new things.
 
 - 🔭 I’m currently working on cross platform mobile app built using React Native
