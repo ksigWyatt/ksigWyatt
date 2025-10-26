@@ -17,7 +17,7 @@ I'm Wyatt, a Development Team Lead for [CallMiner](https://callminer.com/) in Fo
 
 - 🔭 I’m currently working on cross platform mobile app built using React Native
 - 🌱 I’m currently learning React
-- ⚡ Fun fact: I'm a [Gitkraken Ambassador](https://www.gitkraken.com/ambassador)!
+- ⚡ Fun fact: I'm a [Gitkraken Ambassador](https://www.gitkraken.com/meet-the-gitkraken-ambassadors)!
 
 ## Projects
 I'm currently working on these projects:
